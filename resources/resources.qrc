@@ -1,0 +1,12 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource>
+        <file>images/discharged-battery-status-symbol.png</file>
+        <file>images/battery-charged-symbol.png</file>
+        <file>images/battery-with-a-slash.png</file>
+        <file>images/battery-empty.png</file>
+        <file>images/low-battery-status-interface-symbol.png</file>
+        <file>images/battery-status-with-half-power.png</file>
+        <file>images/battery-status-with-three-quarters-charged.png</file>
+        <file>images/battery-with-four-empty-divisions.png</file>
+    </qresource>
+</RCC>

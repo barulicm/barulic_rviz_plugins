@@ -1,0 +1,10 @@
+<library path="lib/libbarulic_rviz_plugins">
+    <class name="barulic_rviz_plugins/Battery"
+           type="barulic_rviz_plugins::BatteryDisplay"
+           base_class_type="rviz::Display">
+        <description>
+            Displays battery charge and health.
+        </description>
+        <message_type>sensor_msgs/BatteryState</message_type>
+    </class>
+</library>
